@@ -34,3 +34,9 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/.idea
+
+/Assets/Resources/Configs/Preset.txt
+
+*.dll.meta
+*.dll.meta
