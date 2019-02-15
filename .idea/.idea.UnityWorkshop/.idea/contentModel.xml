@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\UNITY_WORKSHOP\UnityWorkshop" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="UI" t="Include">
+            <e p="Popups" t="Include">
+              <e p="PausePopup" t="Include">
+                <e p="PausePopupBehaviour.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Screens" t="Include">
+              <e p="IngameScreen" t="Include">
+                <e p="IngameScreenBehaviour.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="UnityWorkshop.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\mdeak\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_UnityWorkshop.-1453400856.00" t="ExcludeRecursive" />
+  </component>
+</project>
